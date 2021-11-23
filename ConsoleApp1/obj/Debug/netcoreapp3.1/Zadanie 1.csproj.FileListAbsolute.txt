@@ -1,0 +1,14 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Zadanie 1.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Zadanie 1.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Zadanie 1.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Zadanie 1.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Zadanie 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Zadanie 1.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Zadanie 1.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Zadanie 1.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Zadanie 1.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Zadanie 1.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Zadanie 1.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Zadanie 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Zadanie 1.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание методы\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Zadanie 1.genruntimeconfig.cache
